@@ -1,0 +1,20 @@
+{
+    "vi": {
+        "login": "Đăng nhập",
+        "password": "Mật khẩu",
+        "fgPassword": "Quên mật khẩu ?",
+        "haveAccount": "Bạn chưa có tài khoản ? ",
+        "signup": "Đăng ký",
+        "anotherlogin" : " Hoặc đăng nhập bằng ",
+        "facebook": " Đăng nhập bằng Facebook ",
+        "apple": " Đăng nhập bằng Apple ",
+        "register": "Đăng ký",
+        "firstname": "Họ",
+        "lastname": "Tên",
+        "byclick": "nhấn nút check 'Đăng ký' để đồng ý với các",
+        "term": " Điều khoản & Điều kiện",
+        "and": " và",
+        "Privacy": " Bảo mật",
+        "haveac": "Bạn đã có tài khoản  ? "
+    }
+}

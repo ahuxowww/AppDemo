@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "208416102870",
+    "project_id": "loginnotification-c0183",
+    "storage_bucket": "loginnotification-c0183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:208416102870:android:7523f70a59676bf4fa6c77",
+        "android_client_info": {
+          "package_name": "ahuxo.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "208416102870-med7g4eoutso7u60to38pdn6m3hnpkp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaDRZAUpdudpbiULqSvEqRfsfKRbWGaoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "208416102870-med7g4eoutso7u60to38pdn6m3hnpkp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

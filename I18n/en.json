@@ -1,0 +1,21 @@
+{
+    "en": {
+        "login": "Login",
+        "password": "Password",
+        "fgPassword": "Forget password ?",
+        "haveAccount": "Don't have an account? ",
+        "signup": "Sign Up",
+        "anotherlogin" : " Or Login in with ",
+        "facebook": "Log in with Facebook",
+        "apple": "Log in with Apple",
+        "register": "Register",
+        "firstname": "Firstname",
+        "lastname": "Lastname",
+        "byclick": "by clicking on 'Register' tou agree to our",
+        "term": " Terms & Condition",
+        "and": " and",
+        "Privacy": " Privacy Policy",
+        "haveac": "Already have an account ?  "
+
+    }
+}
